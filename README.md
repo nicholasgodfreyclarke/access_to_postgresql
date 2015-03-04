@@ -18,3 +18,7 @@ Requirements:
 
 * pydobc
 * psycopg2
+
+# Limitations
+
+As yet does not convert primary keys, indexes, foreign keys.
